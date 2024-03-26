@@ -1,2 +1,1 @@
-# hockey
-lorem 
+# Migthy Ducks Hockey League
